@@ -3,9 +3,9 @@ const swaggerJSDoc = require('swagger-jsdoc');
 
 const swaggerDefinition = {
   info: {
-    title: 'Deel Challenge', // Title (required)
+    title: 'Node Express API', // Title (required)
     version: '1.0.0', // Version (required)
-    description: 'Challenge from Deel', // Description (optional)
+    description: 'RESTful API with Node.js and Express.js', // Description (optional)
   },
   host: 'localhost:3001', // Host (optional)
   basePath: '/', // Base path (optional)
